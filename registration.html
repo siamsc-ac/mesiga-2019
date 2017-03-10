@@ -1,0 +1,150 @@
+---
+layout: page
+title: Registration
+registration_state: open
+form_api_token: 09e3a36d99658971738d37981b26b5ac
+email: sergio@mathb.rwth-aachen.de
+---
+
+FIXME Update this page, email and the form_api_token
+
+{% case page.registration_state %}
+{% when 'notyet' %}
+<p class="message">Registration will be open starting from the FIXME</p>
+
+{% when 'closed' %}
+<p class="message">Registration is closed.</p>
+
+{% when 'open' %}
+<p class="message">
+You can use this form to register for FIXME.
+
+If you have any questions
+regarding registration or in general, feel free to
+<a href="mailto:{{page.email}}">contact us via email</a>.
+</p>
+<form action="http://getsimpleform.com/messages?form_api_token={{page.form_api_token}}" method="post">
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="name">Name <span class="form-field-req">*</span></label>
+  </div>
+  <input type="text" size="60" maxlength="80" name="name" autofocus required />
+  <!-- autofocus with fallback for older browsers -->
+  <script>
+    if (!("autofocus" in document.createElement("input"))) {
+      document.getElementById("q").focus();
+    }
+  </script>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="email">Email <span class="form-field-req">*</span></label>
+  </div>
+  <input type="email" size="60" maxlength="80" name="email" required />
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="affiliation">Affiliation<span class="form-field-req">*</span></label>
+  </div>
+  <div class="form-field-description">
+    Please enter the name of your home university, institute etc., if any. 
+  </div>
+  <input type="text" size="60" maxlength="80" name="affiliation" required />
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="experience">Programming Experience<span class="form-field-req">*</span></label> 
+  </div>
+  <div class="form-field-description">
+    Please select your level of programming experience.
+  </div>
+  <select name="programming.experience" id="programming_experience" required>
+    <option value="none" selected="selected">No previous experience</option>
+    <option value="basic">Basic programming experience</option>
+    <option value="personal">I'm confident writing small programs for my personal use</option>
+    <option value="confident">I write programs that are distributed to other users</option>
+  </select>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="gender">Gender<span class="form-field-req">*</span></label> 
+  </div>
+  <select name="gender" id="gender" required>
+    <option value="male" selected="selected">male</option>
+    <option value="female">female</option>
+    <option value="other">other</option>
+  </select>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="arrival_date">Arrival date <span class="form-field-req">*</span></label> 
+  </div>
+  <div class="form-field-description">
+    Please select the day of arrival.
+  </div>
+  <select name="arrival.date" id="arrival_date" required>
+    <option value="Sunday 18 Nov" selected="selected">Sunday 18 Nov</option>
+    <option value="Monday 19 Nov">Monday 19 Nov</option>
+    <option value="Tuesday 20 Nov">Tuesday 20 Nov</option>
+    <option value="Wednesday 21 Nov">Wednesday 21 Nov</option>
+    <option value="Thursday 22 Nov">Thursday 22 Nov</option>
+  </select>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="departure_date">Departure date <span class="form-field-req">*</span></label> 
+  </div>
+  <div class="form-field-description">
+    Please select the day of departure.
+  </div>
+  <select name="departure.date" id="departure_date" required>
+    <option value="Monday 19 Nov">Monday 19 Nov</option>
+    <option value="Tuesday 20 Nov">Tuesday 20 Nov</option>
+    <option value="Wednesday 21 Nov">Wednesday 21 Nov</option>
+    <option value="Thursday 22 Nov" selected="selected">Thursday 22 Nov</option>
+  </select>
+</div>
+
+<!--
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="accommodation">Accommodation</label>
+  </div>
+  <div class="form-field-description">
+    We recommend <a href="http://www.cityhotel-siegen.de">Cityhotel Siegen</a>.
+    For the participants of the workshop/code sprint we managed to
+    get 15 rooms at the reduced rate of 71 Euros/night.
+    The offer is valid until the end of July or until all 15 rooms are booked.
+    You will have to book your accommodation yourself. Please
+    mention <Q>Gap Days 2017</Q> to get the reduced rate.
+  </div>
+  <input type="text" size="60" maxlength="180" name="accommodation" />
+</div>
+ -->
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="comments">Comments</label>
+  </div>
+  <div class="form-field-description">
+    This is the place for any comments, questions or wishes
+    you have regarding the autumn school.
+  </div>
+  <textarea name="comments" rows="10" cols="60"></textarea>
+</div>
+
+<input type='hidden' name='redirect_to' value='{{ site.url }}{{ site.baseurl }}/thank-you' />
+
+<div class="form-field">
+  <input type="submit" value="Register!" />
+</div>
+
+</form>
+{% endcase %}
