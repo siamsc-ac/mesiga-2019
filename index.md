@@ -5,13 +5,16 @@ title: Home
 
 # {{ site.title }}
 
-## {{ site.description }}, 2019<br> {{ site.location }}
+## {{ site.description }}
+<!-- <br> hosted at {{ site.location }} from 09.09.2019 until 11.09.2019 -->
 
 MESIGA 2019 is organised by the
 [(SIAM Student Chapter Aachen)](http://blog.rwth-aachen.de/siamsc/),
 in particular by
-- FIXME
-- FIXME
+- Christian Bauer <christian.bauer@nld.rwth-aachen.de>
+- Anna Thünen <thuenen@igpm.rwth-aachen.de>
+- Nicole Nellesen <nellesen@aices.rwth-aachen.de>
+- Sergio Siccha <sergio@mathb.rwth-aachen.de>
 
 More detailed information can be found on [the program page]({{ site.baseurl }}/program).
 
@@ -25,14 +28,14 @@ Information about the venue can be found on [the location page]({{ site.baseurl 
 
 ## Location
 
-exact location will also be announced on [the program page]({{ site.baseurl }}/program).
+The exact location will also be announced on [the program page]({{ site.baseurl }}/program).
 
 ## Contact
 
 If you have questions or suggestions, please contact the organisers by email at:
 
-* [FIXME](mailto:FIXME) <- make mesiga2019@yadayada.de ?
+* [mesiga2019@igpm.rwth-aachen.de](mailto:mesiga2019@igpm.rwth-aachen.de)
 
-## Sponsors
-
-This FIXME is supported by FIXME.
+<!-- ## Sponsors -->
+<!--  -->
+<!-- This FIXME is supported by FIXME. -->

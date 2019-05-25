@@ -10,19 +10,19 @@ and the [hyde](https://github.com/poole/hyde/) template, also see the
 If you want to test site on your own machine, first install Jekyll (as
 described on its website), then do this:
 ```
-  git clone https://github.com/gapdays/gap-sage-days2016
+  git clone https://github.com/siamsc-ac/mesiga-2019
   jekyll serve -w
 ```
 Now open a browser on http://localhost:4000/ to see a live preview
 of the site.
 
-== Steps for new GAP Days
+== Steps for new MESIGA 2019
 
-To create a website for a new GAP Days event, follow roughly the following
+To create a website for a new MESIGA 2019 event, follow roughly the following
 steps:
 
-1. Copy the data of the previous GAP Days into a new repository.
-   Add that repository under a suitable name at https://github.com/gapdays
+1. Copy the data of the previous MESIGA 2019 into a new repository.
+   Add that repository under a suitable name at https://github.com/siamsc-ac/mesiga-2019
 
 2. Edit all relevant files; at the very least do the following:
     - _config.yml: update baseurl to match the name of the repository at github.

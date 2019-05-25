@@ -7,12 +7,19 @@ permalink:        pretty
 
 # Setup
 title:            'MESIGA 2019'
-tagline:          'FIXME'
-description:      'FIXME'
+tagline:          'Aachen'
+description:      'The Meeting of European SIAM and GAMM student chapters'
 location:         'RWTH Aachen University'
 url:              https://siamsc-ac.github.io
 baseurl:          /mesiga-2019
 
 
-exclude: [ "LICENSE.hyde.md", "README.hyde.md", "program.aux", "program.log", "program.out", "program.tex", "misc" ]
+exclude: [ "LICENSE.hyde.md", "README.hyde.md", "materials.md", "participants.md", "program.aux", "program.log", "program.out", "program.tex", "misc" ]
 include: [ ]
+
+# For the location page. (uses jekyll-mapping)
+mapping:
+    provider: openstreetmap
+    latitude: "50.7800749"
+    longitude: "6.0814051"
+    zoom: "10"
