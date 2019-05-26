@@ -3,4 +3,5 @@ layout: page
 title: Program
 ---
 
-[program]({{ site.baseurl }}/program.pdf)
+[Download the poster here.]({{ site.baseurl }}/program.pdf)
+

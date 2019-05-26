@@ -15,7 +15,7 @@ email: mesiga2019@igpm.rwth-aachen.de
 
 {% when 'open' %}
 <p class="message">
-You can use this form to register for the MESIGA 2019.
+Please use this form to register for the MESIGA 2019.
 
 If you have any questions
 regarding registration or in general, feel free to
@@ -38,6 +38,17 @@ regarding registration or in general, feel free to
 
 <div class="form-field">
   <div class="form-field-title">
+    <label for="gender">Gender<span class="form-field-req">*</span></label> 
+  </div>
+  <select name="gender" id="gender" required>
+    <option value="male" selected="selected">male</option>
+    <option value="female">female</option>
+    <option value="other">other</option>
+  </select>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
     <label for="email">Email <span class="form-field-req">*</span></label>
   </div>
   <input type="email" size="60" maxlength="80" name="email" required />
@@ -51,17 +62,6 @@ regarding registration or in general, feel free to
     Please enter the name of your SIAM Student Chapter.
   </div>
   <input type="text" size="60" maxlength="80" name="affiliation" required />
-</div>
-
-<div class="form-field">
-  <div class="form-field-title">
-    <label for="gender">Gender<span class="form-field-req">*</span></label> 
-  </div>
-  <select name="gender" id="gender" required>
-    <option value="male" selected="selected">male</option>
-    <option value="female">female</option>
-    <option value="other">other</option>
-  </select>
 </div>
 
 <!-- <div class="form&#45;field"> -->
@@ -114,6 +114,16 @@ regarding registration or in general, feel free to
 
 <div class="form-field">
   <div class="form-field-title">
+    <label for="contribution">I will ... <span class="form-field-req">*</span></label>
+  </div>
+  <select name="contribution" id="contribution" required>
+    <option value="presentation" selected="selected">give a 30 minutes talk.</option>
+    <option value="poster">present a poster.</option>
+  </select>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
     <label for="comments">Comments</label>
   </div>
   <div class="form-field-description">
@@ -126,7 +136,7 @@ regarding registration or in general, feel free to
 <input type='hidden' name='redirect_to' value='{{ site.url }}{{ site.baseurl }}/thank-you' />
 
 <div class="form-field">
-  <input type="submit" value="Register!" />
+  <input type="submit" value="Register" />
 </div>
 
 </form>
