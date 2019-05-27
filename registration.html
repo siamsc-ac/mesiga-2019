@@ -8,14 +8,14 @@ email: mesiga2019@igpm.rwth-aachen.de
 
 {% case page.registration_state %}
 {% when 'notyet' %}
-<p class="message">Registration will be open starting from the 01.06.2019</p>
+<p class="message">Registration is now open starting from the 01.06.2019.</p>
 
 {% when 'closed' %}
 <p class="message">Registration is closed.</p>
 
 {% when 'open' %}
 <p class="message">
-Please use this form to register for the MESIGA 2019.
+Please use this form to register for the MESIGA 2019. The registration deadline is 15.08.2019.
 
 If you have any questions
 regarding registration or in general, feel free to
@@ -38,13 +38,9 @@ regarding registration or in general, feel free to
 
 <div class="form-field">
   <div class="form-field-title">
-    <label for="gender">Gender<span class="form-field-req">*</span></label> 
+    <label for="addressed">How do you want to be addressed?<span class="form-field-req">*</span></label> 
   </div>
-  <select name="gender" id="gender" required>
-    <option value="male" selected="selected">male</option>
-    <option value="female">female</option>
-    <option value="other">other</option>
-  </select>
+  <input type="text" size="60" maxlength="80" name="addressed" required />
 </div>
 
 <div class="form-field">
@@ -119,6 +115,7 @@ regarding registration or in general, feel free to
   <select name="contribution" id="contribution" required>
     <option value="presentation" selected="selected">give a 30 minutes talk.</option>
     <option value="poster">present a poster.</option>
+    <option value="not-contributing">not present anything.</option>
   </select>
 </div>
 
