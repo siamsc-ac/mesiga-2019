@@ -24,10 +24,6 @@ MESIGA 2019 will take place at the {{ site.location }}.
 To register for the conference visit [the registration page]({{ site.baseurl }}/registration).
 Information about the venue can be found on [the location page]({{ site.baseurl }}/location).
 
-## Location
-
-The exact location will also be announced on [the program page]({{ site.baseurl }}/program).
-
 ## Contact
 
 If you have questions or suggestions, please contact the organisers by email at:
