@@ -16,7 +16,7 @@ in particular by
 - Nicole Nellesen <nellesen@aices.rwth-aachen.de>
 - Sergio Siccha <sergio@mathb.rwth-aachen.de>
 
-More detailed information can be found on [the program page]({{ site.baseurl }}/program).
+More detailed information on the event can be found on [the program page]({{ site.baseurl }}/program).
 
 ## Registering and visiting
 
