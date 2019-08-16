@@ -39,13 +39,13 @@ The program might be subject to change.
 <td>Presentations</td>
 </tr>
 <tr class="even">
-<td>09:30 - 09:45</td>
+<td>09:30 - 10:00</td>
 <td>Opening</td>
 <td>Coffee Break</td>
 <td>Coffee Break</td>
 </tr>
 <tr class="odd">
-<td>09:45 - 11:00</td>
+<td>10:00 - 11:00</td>
 <td>Presentation of the Student Chapters by a representative</td>
 <td>Presentations</td>
 <td>Presentations</td>
