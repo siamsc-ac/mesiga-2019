@@ -52,7 +52,7 @@ The program might be subject to change.
 </tr>
 <tr class="even">
 <td>11:00 - 11:30</td>
-<td>Keynote (Prof. Tempone)</td>
+<td rowspan=2>Keynote (Prof. Tempone)</td>
 <td>Kaffeepause</td>
 <td>Kaffeepause</td>
 </tr>
@@ -64,8 +64,8 @@ The program might be subject to change.
 </tr>
 <tr class="even">
 <td>12:30 - 13:00</td>
-<td>Mittagspause</td>
-<td>Mittagspause</td>
+<td rowspan=2>Mittagspause</td>
+<td rowspan=2>Mittagspause</td>
 <td>Abschlussbemerkung und Verabschiedung</td>
 </tr>
 <tr class="odd">
