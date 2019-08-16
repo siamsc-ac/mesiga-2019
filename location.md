@@ -16,11 +16,11 @@ title: Location
     L.circle([50.78027, 6.08096], { color: '\#3CA496', fillColor: '\#3CA496', fillOpacity: 0.5, radius: 1500 }).addTo(map);
 </script>
 
-# Recommendation
+## Recommendations
 
 We suggest to plan and to book ahead because the (cheap) city center hotels are often booked by tourist groups.
 Also we recommend to take a Hotel in walking distance to the city center (as indicated by the greenish circle) because this is quite compact.
-However buses are reliable — a ride is 2.7€ which you may pay on the bus.
+However buses are reliable — a ride is 2.70€ which you may pay on the bus.
 
 ## Hotels
 

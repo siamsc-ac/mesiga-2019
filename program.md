@@ -3,7 +3,7 @@ layout: page
 title: Program
 ---
 
-# Summary
+## Summary
 
 | From               | 9am on 09. September 2019                                                                                                                        |
 | Until              | 1pm on 11. September 2019                                                                                                                        |
@@ -11,7 +11,7 @@ title: Program
 | Scientific Keynote | Prof. Raùl Tempone<br>TBA<br>*Chair for Mathematics of Uncertainty Quantification at RWTH*                                                       |
 | Industrial Keynote | Dr. Christian Romeike and Dr. Thorsten Sickenberger<br>"Uncertainties in Demand Forecasting: Challenges in Energy and Mobility"<br>*d-fine GmbH* |
 
-# Program
+## Program
 <p class="message">
 The program might be subject to change.
 </p>
@@ -103,6 +103,6 @@ The program might be subject to change.
 </tbody>
 </table>
 
-# Poster
+## Poster
 
 [Download the poster here.]({{ site.baseurl }}/program.pdf)
