@@ -4,6 +4,7 @@ title: Program
 ---
 
 # Summary
+
 | From               | 9am on 09. September 2019                                                                                                                        |
 | Until              | 1pm on 11. September 2019                                                                                                                        |
 | At                 | Seminar Room<br>RWTH - Fachgruppe Mathematik<br>Pontdriesch 14-16<br>52062 Aachen                                                                |
