@@ -92,13 +92,13 @@ The program might be subject to change.
 </tr>
 <tr class="even">
 <td>17:30 - 18:30</td>
-<td>Poster-Session</td>
+<td>Poster Session</td>
 <td>Keynote (Dr. Romeike and Dr. Sickenberger)</td>
 </tr>
 <tr class="odd">
 <td>19:00 - 20:00</td>
-<td>Dom-Führung</td>
-<td>Konferenzdinner (Open-End)</td>
+<td>Social Event</td>
+<td>Conference Dinner (Open-End)</td>
 </tr>
 </tbody>
 </table>
