@@ -18,8 +18,8 @@ The program might be subject to change.
 
 <table>
 <colgroup>
-<col style="width: 9%" />
-<col style="width: 38%" />
+<col style="width: 17%" />
+<col style="width: 32%" />
 <col style="width: 27%" />
 <col style="width: 24%" />
 </colgroup>
