@@ -58,7 +58,6 @@ The program might be subject to change.
 </tr>
 <tr class="odd">
 <td>11:30 - 12:30</td>
-<td></td>
 <td>Fachvorträge</td>
 <td>Student Chapter Panel</td>
 </tr>
@@ -70,45 +69,36 @@ The program might be subject to change.
 </tr>
 <tr class="odd">
 <td>13:00 - 14:00</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td>14:00 - 15:30</td>
 <td>Fachvorträge</td>
 <td>Fachvorträge</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>15:30 - 16:00</td>
 <td>Kaffeepause</td>
 <td>Kaffeepause</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>16:00 - 17:00</td>
 <td>Fachvorträge</td>
 <td>Fachvorträge</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>17:00 - 17:30</td>
 <td>Kaffeepause</td>
 <td>Kaffeepause</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>17:30 - 18:30</td>
 <td>Poster-Session</td>
 <td>Keynote (Dr. Romeike and Dr. Sickenberger)</td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>19:00 - 20:00</td>
 <td>Dom-Führung</td>
 <td>Konferenzdinner (Open-End)</td>
-<td></td>
 </tr>
 </tbody>
 </table>
