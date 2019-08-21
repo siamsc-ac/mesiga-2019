@@ -26,6 +26,7 @@ The program might be subject to change.
 <thead>
 <tr class="header">
 <th></th>
+<th>08.09.2019</th>
 <th>09.09.2019</th>
 <th>10.09.2019</th>
 <th>11.09.2019</th>
@@ -34,6 +35,7 @@ The program might be subject to change.
 <tbody>
 <tr class="odd">
 <td>09:00 - 09:30</td>
+<td rowspan="11"></td>
 <td>Registration</td>
 <td>Presentations</td>
 <td>Presentations</td>
@@ -46,18 +48,18 @@ The program might be subject to change.
 </tr>
 <tr class="odd">
 <td>10:00 - 11:00</td>
-<td>Presentation of the Student Chapters by a representative</td>
+<td rowspan="2">Presentation of the Student Chapters by a representative</td>
 <td>Presentations</td>
 <td>Presentations</td>
 </tr>
 <tr class="even">
 <td>11:00 - 11:30</td>
-<td rowspan="2">Keynote (Prof. Tempone)</td>
 <td>Coffee Break</td>
 <td>Coffee Break</td>
 </tr>
 <tr class="odd">
 <td>11:30 - 12:30</td>
+<td>Keynote (Prof. Tempone)</td>
 <td>Presentations</td>
 <td>Student Chapter Panel</td>
 </tr>
@@ -92,6 +94,7 @@ The program might be subject to change.
 </tr>
 <tr class="even">
 <td>17:30 - 18:30</td>
+<td rowspan="2">Welcome Reception (Open-End)</td>
 <td>Poster Session</td>
 <td>Keynote (Dr. Romeike and Dr. Sickenberger)</td>
 </tr>
