@@ -19,9 +19,10 @@ The program might be subject to change.
 <table>
 <colgroup>
 <col style="width: 17%" />
-<col style="width: 32%" />
-<col style="width: 27%" />
+<col style="width: 9%" />
+<col style="width: 30%" />
 <col style="width: 24%" />
+<col style="width: 20%" />
 </colgroup>
 <thead>
 <tr class="header">
