@@ -8,7 +8,7 @@ title: Program
 | From               | 9am on 09. September 2019                                                                                                                        |
 | Until              | 1pm on 11. September 2019                                                                                                                        |
 | At                 | Seminar Room<br>RWTH - Fachgruppe Mathematik<br>Pontdriesch 14-16<br>52062 Aachen                                                                |
-| Scientific Keynote | Prof. Raùl Tempone<br>TBA<br>*Chair for Mathematics of Uncertainty Quantification at RWTH*                                                       |
+| Scientific Keynote | Prof. Raùl Tempone<br>"Computational Uncertainty Quantification with Applications: a new chair's perspective"<br>*Chair for Mathematics of Uncertainty Quantification at RWTH*                                                       |
 | Industrial Keynote | Dr. Christian Romeike and Dr. Thorsten Sickenberger<br>"Uncertainties in Demand Forecasting: Challenges in Energy and Mobility"<br>*d-fine GmbH* |
 
 ## Program
