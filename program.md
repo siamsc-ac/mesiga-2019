@@ -80,28 +80,24 @@ The program might be subject to change.
 </tr>
 <tr class="odd">
 <td>15:30 - 16:00</td>
-<td>Coffee Break</td>
+<td rowspan="5">Social Event</td>
 <td>Coffee Break</td>
 </tr>
 <tr class="even">
 <td>16:00 - 17:00</td>
 <td>Presentations</td>
-<td>Presentations</td>
 </tr>
 <tr class="odd">
 <td>17:00 - 17:30</td>
-<td>Coffee Break</td>
 <td>Coffee Break</td>
 </tr>
 <tr class="even">
 <td>17:30 - 18:30</td>
 <td rowspan="2">Welcome Reception (Open-End)</td>
-<td>Poster Session</td>
 <td>Keynote (Dr. Romeike and Dr. Sickenberger)</td>
 </tr>
 <tr class="odd">
 <td>19:00 - 20:00</td>
-<td>Social Event</td>
 <td>Conference Dinner (Open-End)</td>
 </tr>
 </tbody>
