@@ -107,4 +107,6 @@ The program might be subject to change.
 
 [Download the poster here.]({{ site.baseurl }}/program.pdf)
 
+## Book of Abstracts
+
 [Download the book of abstracts here.]({{ site.baseurl }}/BookOfAbstracts.pdf)
