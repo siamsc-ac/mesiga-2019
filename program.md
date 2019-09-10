@@ -61,7 +61,7 @@ The program might be subject to change.
 <tr class="odd">
 <td>11:30 - 12:30</td>
 <td>Keynote (Prof. Tempone)<br>"Computational uncertainty quantification with applications: a new chair’s perspective"</td>
-<td>Carolin Penke<br>Structure-preserving spectral divide and conquer methods for self-adjoint eigenvalue problems<br><br>Alexandra Bünger<br>Low-rank tensor-train methods for isogeometric analysisalex</td>
+<td>Carolin Penke<br>Structure-preserving spectral divide and conquer methods for self-adjoint eigenvalue problems<br><br>Alexandra Bünger<br>Low-rank tensor-train methods for isogeometric analysis</td>
 <td>Student Chapter Panel</td>
 </tr>
 <tr class="even">
